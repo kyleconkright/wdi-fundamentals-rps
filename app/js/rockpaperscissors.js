@@ -68,5 +68,4 @@ function playToFive() {
     }
     return [playerWins, computerWins];
 }
-
 playToFive();
